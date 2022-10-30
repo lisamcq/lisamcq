@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Lisa 👋
 
 <!--
 **lisamcq/lisamcq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a statistician with a MSc in Statistics from Simon Fraser University in Vancouver, Canada. I am passionate about using statistics to solve health science problems, and currently I work as a Biostatistician in the field of clinical trials. On my Github you can find the text of my Master's thesis and the code I used for my thesis simulation study, plus other projects including some of my recent exploits into the field of data science (coming soon!).
+
+Find me on LinkedIn at www.linkedin.com/in/lisamcquarrie

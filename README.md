@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a statistician with a MSc in Statistics from Simon Fraser University in Vancouver, Canada. I am passionate about using statistics to solve health science problems, and currently I work as a Biostatistician in the field of clinical trials. On my Github you can find the text of my Master's thesis and the code I used for my thesis simulation study, plus other projects including some of my recent exploits into the field of data science (coming soon!).
+I am a statistician with a MSc in Statistics from Simon Fraser University in Vancouver, Canada. I am passionate about using statistics to solve health science problems, and currently I work as a Biostatistician in the field of clinical trials. On my Github you can find examples of my work in statistics and data science.
 
 Find me on LinkedIn at www.linkedin.com/in/lisamcquarrie

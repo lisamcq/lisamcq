@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a statistician with a MSc in Statistics from Simon Fraser University in Vancouver, Canada. I am passionate about using statistics and data science to solve real-world problems. On my Github you can find examples of my work in statistics and data science.
+I am a statistician and statistical consultant with a MSc in Statistics from Simon Fraser University in Vancouver, Canada. I am passionate about using statistics and data science to solve real-world problems. On my Github you can find examples of my work in statistics and data science.
 
-Find me on LinkedIn at www.linkedin.com/in/lisamcquarrie
+Find me on LinkedIn at www.linkedin.com/in/lisamcquarrie and at www.lisamcquarrie.ca
